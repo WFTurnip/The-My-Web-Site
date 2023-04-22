@@ -16,7 +16,7 @@
       }
 
       path.ground {
-        fill: #d0ff00;
+        fill: #FCBB30
       }
     }
   </style>
